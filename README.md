@@ -1,1 +1,2 @@
 # Exploring_HackerNews_Posts
+Hacker News is a site where users can submitt posts which are voted on and commented upon by other users. This site is extreemly popular for technology and startup circles. The top Hacker News posts which have the most comments can get hundreds of thousands of visitors to their websites. In this project I analayze a data set from kaggle to determine whether Ask HN or Show HN posts recieve more comments on average. I then determine at what time of day users get the largest, average number of comments.
